@@ -1,0 +1,2 @@
+# GetInfo
+Windows information collection
