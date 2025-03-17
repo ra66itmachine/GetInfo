@@ -38,3 +38,7 @@
 
 ### 声明 
 本项目仅供学习使用，勿做它用
+
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ra66itmachine/GetInfo&type=Date)](https://www.star-history.com/#ra66itmachine/GetInfo&Date)
